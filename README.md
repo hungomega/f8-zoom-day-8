@@ -4,7 +4,7 @@ _Cập nhật tháng 6 năm 2025_
 
 # Yêu cầu chung
 
-## 1. Áp dụng kiến thức mới hoàn thiện các pages
+###### 1. Áp dụng kiến thức mới hoàn thiện các pages
 
 ## 2. Xây dựng danh sách chương và bài học
 
